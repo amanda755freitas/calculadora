@@ -19,7 +19,8 @@ programa {
     escreva("\nA soma dos números é igual a: ", soma) 		
 		escreva("\nA subtração dos números é igual a: ", sub) 		
 		escreva("\nA multiplicação dos números é igual a: ", mult) 	
-		escreva("\nA divisão dos números é igual a: ", div, "\n") 	
+		escreva("\nA divisão dos números é igual a: ", div, "\n") 
+// boa cauculadora, ativiade realizada 
   }
       
 }
